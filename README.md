@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavbibhuti&theme=radical&margin-w=5&margin-h=5" alt="rishavbibhuti" /></a> </p>
 
-- 🔭 I’m currently working on *Flutter and Firebase*
+- 🔭 I’m currently working on *Website Creation*
   
   
-- 🌱 I’m currently learning *GoLang*
+- 🌱 I’m currently learning *React JS*
 
 
 
 
-- 👯 I’m looking to collaborate on *App Dev Projects*
+- 👯 I’m looking to collaborate on *WEB Dev Projects*
 
 - 📫 How to reach me *rishavbibhuti9@gmail.com*
 
